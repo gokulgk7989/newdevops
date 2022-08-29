@@ -1,1 +1,2 @@
 This is new demo file 
+This is second day demo of Git
